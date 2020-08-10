@@ -27,7 +27,7 @@ You have to predict the Low_Cap_Price column.
 5. All the categorical features were Encoded to the numeric.
 6. Handling the outliers in the data.
 7. Created two new features.
-8. I have used XGBoost which it has gave me 0.53663849301643, and Light GBM also given the same level of accuracy to me.
+8. I have used XGBoost which it has gave me 99.86, and Light GBM also given the same level of accuracy to me.
 
 
 ### Tools used
