@@ -11,7 +11,7 @@ You have to predict the Low_Cap_Price column.
 
 # Data ScreenShot
 
-<img src="Screenshot 2020-08-10 at 10.40.57 AM.png">
+<img src="Screenshot 2020-08-10 at 10.48.28 AM.png">
 
 
 # A Description of my Methodology
