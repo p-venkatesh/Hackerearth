@@ -48,12 +48,12 @@ The evaluation metric for this competition is Weighted F1 Score.
 
 1. Rank: 3rd on public LB.
 
-<img src = "Screenshot 2020-06-01 at 12.00.16 AM.png">
+<img src = "Screenshot 2020-08-10 at 10.40.57 AM.png">
 
 
 2. Rank: 3rd on private LB.
 
-<img src = "Screenshot 2020-06-01 at 8.53.39 AM.png">
+<img src = "Screenshot 2020-08-10 at 10.40.57 AM.png">
 
 3. Top 1 percentile.
 
