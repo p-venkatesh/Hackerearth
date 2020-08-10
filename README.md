@@ -20,7 +20,7 @@ You have to predict the Low_Cap_Price column.
    ### Feature Engineering & Approach
 
 
-1. Loan_Amount_Requested was converted to numeric by removing commas.
+1. All were converted to numeric.
 2. PreProcessed all of the data.
 3. Filled all of the Nan Values.
 4. Understanding the Data using descriptive statistics.
@@ -40,7 +40,7 @@ You have to predict the Low_Cap_Price column.
 
 
 ## Evaluation Metric
-The evaluation metric for this competition is Weighted F1 Score.
+The evaluation metric for this competition is max(0, (100 - mean_squared_log_error(y_true, y_pred))).
 
 
 # Competition Result
